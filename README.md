@@ -105,6 +105,20 @@ Terminal client (`main.py`) supports:
   - Direct messages between users
   - Message history (currently messages are not stored)
   - Rate limiting for messages
+  - Report system
+  - Message time out from spamming messages
+  - File/Folder sending
+  - Try to fix the random server disconnects
+  - Room logic if no one is in a room remove it
+  - Main room the default room you get in to no one owns it
+  - Hidden game Easter egg snake and another game
+  - Crash protection
+  - Dedicated chat bar to chat and type commands
+  - Link system where if you put an link in it under lines it and if you click on it it takes you to the website
+  - Emojis
+  - picture/video viewer
+  - Txt viewer
+    
 ## Contributors
 - Thanks to the contributors for the help this would of never happend if you wernt hear
 
