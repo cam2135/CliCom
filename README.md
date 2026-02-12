@@ -108,7 +108,7 @@ Terminal client (`main.py`) supports:
 ## Contributors
 - Thanks to the contributors for the help this would of never happend if you wernt hear
 
- -jparish1977
+ - jparish1977
 
 ## License
 MIT-style (no license file included). Add a `LICENSE` file if you need formal licensing.
