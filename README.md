@@ -120,7 +120,7 @@ Terminal client (`main.py`) supports:
   - Txt viewer
     
 ## Contributors
-- Thanks to the contributors for the help this would of never happend if you wernt hear
+- Thanks to the contributors for the help this would of never happend if you weren't hear
 
   - jparish1977
 
