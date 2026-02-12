@@ -105,8 +105,8 @@ Terminal client (`main.py`) supports:
   - Direct messages between users
   - Message history (currently messages are not stored)
   - Rate limiting for messages
-##Contributors
--Thanks to the contributors for the help this would of never happend if you wernt hear
+## Contributors
+- Thanks to the contributors for the help this would of never happend if you wernt hear
 
  -jparish1977
 
