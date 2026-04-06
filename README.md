@@ -125,4 +125,6 @@ Terminal client (`main.py`) supports:
   - jparish1977
 
 ## License
-MIT-style (no license file included). Add a `LICENSE` file if you need formal licensing.
+ This project is released under the MIT License.
+
+
