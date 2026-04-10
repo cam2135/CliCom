@@ -123,7 +123,8 @@ Terminal client (`main.py`) supports:
 - Thanks to the contributors for the help this would of never happend if you weren't hear
 
   - jparish1977
-
+  - aaa23457
+  - 
 ## License
  This project is released under the MIT License.
 
